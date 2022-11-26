@@ -1,0 +1,8 @@
+.contacts {
+    margin: 76.4px 48px 81px 0;
+    display: grid;
+    grid-template-columns: 60px 1px 408px;
+    grid-template-rows: 42px 60px 40px;
+    row-gap: 22px;
+    column-gap: 33px;
+}

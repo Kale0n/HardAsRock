@@ -1,0 +1,13 @@
+.intro__text{
+    max-width: 832px;
+    color:#9C9C9C;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    text-align:justify;
+    margin: 0 auto;
+}
+
+span {
+    text-decoration: line-through;
+}

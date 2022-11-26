@@ -1,0 +1,9 @@
+.intro__heading {
+font-family: "LibreBaskerville";
+font-weight: 400;
+font-size: 64px;
+line-height: 109.5%;
+text-align: center;
+margin: 60px auto 18px;
+text-shadow: 0px 0px 13px rgba(174, 192, 255, 0.38);
+}

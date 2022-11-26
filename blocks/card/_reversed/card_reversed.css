@@ -1,0 +1,3 @@
+.card_reversed {
+    flex-flow:row-reverse nowrap;
+}

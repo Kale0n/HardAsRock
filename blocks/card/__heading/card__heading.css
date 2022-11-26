@@ -1,0 +1,11 @@
+.card__heading {
+font-family: "LibreBaskerville"; 
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 117.5%;
+color: #E1EBE7;
+margin: 0 auto 20px;
+max-height: 108px;
+overflow: hidden;
+}

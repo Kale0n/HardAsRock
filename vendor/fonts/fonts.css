@@ -1,0 +1,22 @@
+@font-face {
+    font-family:'LibreBaskerville';
+    font-weight: 400;
+    src: url(../fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf);
+}
+@font-face {
+    font-family: 'Manrope';
+    font-weight: 400;
+    src: url(../fonts/Manrope/static/Manrope-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Manrope';
+    font-weight: 500;
+    src: url(../fonts/Manrope/static/Manrope-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Manrope';
+    font-weight: 600;
+    src: url(../fonts/Manrope/static/Manrope-SemiBold.ttf);
+}

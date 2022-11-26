@@ -1,0 +1,23 @@
+.button__steam{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 109.5%;
+    text-align: left;
+    background-color: #ECB113;
+    background-image: url(../../../images/steam.svg);
+    background-repeat: no-repeat;
+    background-position: 222px 25px;
+    border-radius: 12px;
+    width: 281px;
+    height: 76px;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    padding-left: 24px;
+}
+
+.button__steam:hover{
+    opacity: 0.85;
+}

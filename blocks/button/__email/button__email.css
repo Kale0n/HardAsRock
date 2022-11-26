@@ -1,0 +1,16 @@
+.button__email {
+    width: 64px;
+    height: 60px;
+    border-radius: 12px;
+    background-color: #3B62C8;;
+    background-image: url(../../../images/mail.svg);
+    background-repeat: no-repeat;
+    background-size: 23.5px;
+    background-position: center;
+    border: none;
+    padding: 0;
+}
+
+.button__email:hover {
+    opacity: 0.85;
+}

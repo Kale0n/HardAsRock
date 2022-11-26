@@ -1,0 +1,11 @@
+.footer {
+    max-width: 1440px;
+    max-height: 345px;
+    background-image: url(../../images/footerImage.jpg);
+    border-top: 1px solid white;
+    margin: auto;
+    padding: 0;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}

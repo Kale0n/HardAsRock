@@ -1,0 +1,17 @@
+.button__play {
+    width: 76px;
+    height: 76px;
+    background-color: #3B62C8;
+    background-image: url(../../../images/play.svg);
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    background-position: center ;
+    border-radius: 12px;
+    padding: 0;
+    border: none;
+    cursor: pointer;
+}
+
+.button__play:hover{
+    opacity: 0.85;
+}

@@ -1,0 +1,12 @@
+.header {
+    max-width: 1440px;
+    background-image: url(../../images/headerCover.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    border: none;
+    overflow:hidden;
+}

@@ -1,0 +1,9 @@
+.intro {
+    width: 985px;
+    margin: 60px auto 80px;
+    display: flex;
+    flex-direction: column;
+    background-image: url(../../images/intro.svg);
+    background-repeat: no-repeat;
+    background-position: center top;
+}

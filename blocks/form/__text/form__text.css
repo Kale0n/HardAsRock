@@ -1,0 +1,13 @@
+.form__text {
+    max-width: 361px;
+    grid-row: 3/4;
+    grid-column: 3/4;
+    margin: 0;
+
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+
+    color: #828282;
+}

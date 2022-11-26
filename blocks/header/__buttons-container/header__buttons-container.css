@@ -1,0 +1,8 @@
+.header__buttons-container {
+    max-width: 733px;
+    max-height: 76px;
+    margin: 52px auto 144px;
+    display: flex;
+    align-items: center;
+    column-gap: 24px;
+}
